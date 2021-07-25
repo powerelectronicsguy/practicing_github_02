@@ -2,11 +2,11 @@
 /**
   ******************************************************************************
   * @file           : main.c123
-  * @brief          : Main program body
+  * @brief          : Main program body321
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2021 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2021 STMicroelectronics.xx
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under Ultimate Liberty license
