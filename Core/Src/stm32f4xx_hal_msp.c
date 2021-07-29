@@ -56,7 +56,7 @@
 /* USER CODE END ExternalFunctions */
 
 /* USER CODE BEGIN 0 */
-
+// bla bla bla
 /* USER CODE END 0 */
 /**
   * Initializes the Global MSP.

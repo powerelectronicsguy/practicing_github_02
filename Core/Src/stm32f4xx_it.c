@@ -25,6 +25,7 @@
 #include "task.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+// neki include cu vrv ovde morati da ubacim...
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
