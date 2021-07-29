@@ -368,6 +368,8 @@ static void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 4 */
 // ima ovde jos dosta posla
+// opa cupa
+// 12345
 #define democonfigCLIENT_IDENTIFIER "miloradpetrovic20210630"
 #define mqttexampleTOPIC "miloradpetrovic20210630/example/topic"
 #define mqttexampleMESSAGE "Hello World!"
