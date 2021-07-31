@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 
 ovde ce git da se zali!!!
 
 
+=======
+1
+2
+3
+4
+5
+>>>>>>> dodat je drugciji fajl za rebase_with_conflict.txt
 
