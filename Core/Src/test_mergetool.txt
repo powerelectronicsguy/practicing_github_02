@@ -1,3 +1,7 @@
 
 Sa ovim fajlom cemo testirati git mergetool, koji radi preko vimdiff-a.
 
+
+izmene napravljene u pomocnoj grani
+
+
