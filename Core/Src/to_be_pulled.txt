@@ -2,3 +2,6 @@
 
 Ovaj fajl ce biti pull-ovan.
 
+123
+456
+
