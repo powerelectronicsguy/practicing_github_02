@@ -2,6 +2,9 @@
 
 Ovaj fajl ce biti pull-ovan.
 
-123
-456
+12
+45
+
+abc
+def
 
