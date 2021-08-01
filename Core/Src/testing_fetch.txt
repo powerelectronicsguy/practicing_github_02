@@ -1,0 +1,7 @@
+
+
+Ovaj fajl ce se koristiti za testiranje git fetch naredbe.
+
+123abc
+
+
