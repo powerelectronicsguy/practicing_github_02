@@ -1,0 +1,4 @@
+
+
+Ovaj fajle je za eksperimentisanje sa detached head state-om.
+
